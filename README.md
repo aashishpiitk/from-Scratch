@@ -1,4 +1,9 @@
 # from-Scratch
+
+## Petty concepts to revise
+- [ ] Regularization
+- [ ] Usage of different activation functions
+- [ ] 
 Here I will be implementing machine learning algorithms from scatch!
 ## Classification
 - [ ] Naive Bayes
