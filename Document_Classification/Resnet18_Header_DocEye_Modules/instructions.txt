@@ -1,0 +1,6 @@
+Download the weights from https://drive.google.com/file/d/10Hso8E5-Jd_PWdkVzHXvqC2Y-ccU-bfp/view?usp=sharing
+
+
+Download the processes images for traingin from  https://drive.google.com/file/d/1-Z3XJArOgP4Hln24_jlbMHGr3DBoGRx1/view?usp=sharing
+
+Place the images for testing in the custom_images folder.

@@ -1,0 +1,2 @@
+Put the images to be super-resolved in - low_resolution folder
+Super-resolved images are stored by default in super_resolved folder
