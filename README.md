@@ -1,5 +1,5 @@
 # from-Scratch
-
+<!-- 
 ## Petty concepts to revise
 - [ ] Regularization
 - [ ] Usage of different activation functions
@@ -29,4 +29,5 @@ Here I will be implementing machine learning algorithms from scatch!
 ## Dimentionality Reduction
 - [ ] PCA
 - [ ] Autoencoders
-- [ ] t-SNE
+- [ ] t-SNE -->
+
